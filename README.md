@@ -22,4 +22,4 @@ See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md).
 
 ## Support
 
-For support, contact: {{SUPPORT_EMAIL}}
+For support, contact: info@spikecode.de

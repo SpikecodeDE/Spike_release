@@ -1,10 +1,10 @@
-# {{PRODUCT_NAME}} End User License Agreement
+# Spike Office End User License Agreement
 
-Last updated: {{DATE}}
+Last updated: 30 March 2026
 
 This End User License Agreement ("Agreement") is a legal agreement between you
-and {{COMPANY_LEGAL_NAME}} ("Company", "we", "us", or "our") for the use of
-{{PRODUCT_NAME}} and any related updates, installers, binaries, and
+and SpikeCode GmbH ("Company", "we", "us", or "our") for the use of
+Spike Office and any related updates, installers, binaries, and
 documentation (collectively, the "Software").
 
 This template is a starting point only and should be reviewed by qualified
@@ -100,6 +100,6 @@ mandatory law provides otherwise.
 
 ## 13. Contact
 
-{{COMPANY_LEGAL_NAME}}
+SpikeCode GmbH
 {{COMPANY_POSTAL_ADDRESS}}
-{{LEGAL_CONTACT_EMAIL}}
+info@spikecode.de
